@@ -79,6 +79,11 @@ multi-fruit-ripeness-system/
 ├── requirements.txt        
 └── README.md               
 ```
+<div align="center">
+    <img src="DEMO/FOLDER.png" alt="Output ">
+    <p><strong>FOLDER PATH </strong></p>
+</div>
+
 3.Install Dependenceies
 ```
 pip install -r requirements.txt
