@@ -1,4 +1,4 @@
-# Multi-Fruit Ripeness Instance Segmentation System (IN PROGRESS)
+# Multi-Fruit Ripeness Instance Segmentation System
 
 The **Multi-Fruit Ripeness Instance Segmentation System** is a computer vision project designed to identify and classify the ripeness stages of six fruits:  
 - **Orange**  
