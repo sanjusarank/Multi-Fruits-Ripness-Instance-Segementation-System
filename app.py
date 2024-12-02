@@ -6,11 +6,11 @@ from PIL import Image
 
 
 models = {
-    "Orange": YOLO(),
-    "Banana": YOLO(),
+    "Orange": YOLO("TRAINED MODEL\ORANGEbest.pt"),
+    "Banana": YOLO("TRAINED MODEL\BANANAbest.pt"),
     "Pomegranate": YOLO("TRAINED MODEL\POMEGRANATEbest.pt"),
-    "Papaya": YOLO(),
-    "Mango": YOLO(),
+    "Papaya": YOLO("TRAINED MODEL\PAPAbest.pt"),
+    "Mango": YOLO("TRAINED MODEL\MANGObest.pt"),
 }
 
 
